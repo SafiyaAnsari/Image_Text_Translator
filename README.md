@@ -4,7 +4,22 @@
 
 Hey there! 👋 I built this tool because I was tired of manually typing out text from foreign language images just to translate them. Whether you're traveling, studying, or just curious about what that street sign says, this app has got you covered.
 
-![Demo Screenshot](https://via.placeholder.com/800x400/1e293b/ffffff?text=Add+Your+Screenshot+Here)
+## Demo Screenshots
+
+### Upload and Translate Flow
+![Upload Screenshot](images/ss1.png)
+
+### Translation Output
+![Translation Result](images/ss2.png)
+
+### Overlay Example
+![Overlay Screenshot](images/ss3.png)
+
+## 🎥 Demo Video
+
+[![Watch the demo video](images/ss1.png)](DemoVideo.mp4)
+
+
 
 ## What does this thing do?
 
@@ -59,7 +74,7 @@ You'll need Node.js (version 16 or newer). Then:
 
 ```bash
 # Grab the code
-git clone https://github.com/yourusername/imagetranslate-pro.git
+git clone https://github.com/SafiyaAnsari/Image_Text_Translator.git
 cd imagetranslate-pro
 
 # Install stuff
@@ -98,77 +113,12 @@ src/
 └── main.jsx                   # Entry point
 ```
 
-## Deployment
 
-I've tested this on:
-- **Netlify** (easiest - just connect your GitHub repo)
-- **Vercel** (also super easy)
-- **GitHub Pages** (free but takes a bit more setup)
-
-For production builds:
-```bash
-npm run build
-```
-
-The `dist` folder has everything you need to deploy.
-
-## Browser support
-
-Works on pretty much everything modern:
-- Chrome/Edge (obviously)
-- Firefox (yep)
-- Safari (even on iOS)
-- Mobile browsers (tested on real devices, not just dev tools)
-
-You'll need camera permissions if you want to take photos directly.
-
-## Contributing
-
-Found a bug? Have an idea? I'm always open to improvements! 
-
-Just fork the repo, make your changes, and send a pull request. I try to review them pretty quickly.
-
-A few things that would be awesome:
-- Better language detection
-- Support for more image formats
-- Offline mode
-- Better mobile camera handling
-
-## Known issues (being honest here)
-
-- OCR sometimes struggles with very stylized fonts
-- Translation quality varies by language pair
-- Camera preview can be a bit slow on older phones
-- Large images take a while to process (working on this)
-
-## What's next?
-
-I've got a bunch of ideas brewing:
-- Batch processing multiple images
-- PDF support (because who doesn't have PDFs to translate?)
-- A proper mobile app
-- Better handwriting recognition
-- Maybe even video translation (ambitious, I know)
-
-## Credits
-
-Huge thanks to:
-- The Tesseract.js team for making OCR accessible
-- MyMemory and LibreTranslate for free translation APIs
-- Everyone who's tested this and given feedback
 
 ## License
 
 MIT License - basically, do whatever you want with this code. If you build something cool with it, I'd love to hear about it!
 
-## Get in touch
 
-- **Issues/Features**: [GitHub Issues](https://github.com/yourusername/imagetranslate-pro/issues)
-- **Email**: your.email@example.com
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-
----
-
-**Built with way too much coffee and a genuine desire to break down language barriers** ☕
 
 If this helped you out, a star would make my day! ⭐
