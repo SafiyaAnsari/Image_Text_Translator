@@ -15,9 +15,9 @@ Hey there! 👋 I built this tool because I was tired of manually typing out tex
 ### Overlay Example
 ![Overlay Screenshot](images/ss3.png)
 
-## 🎥 Demo Video
 
-[![Watch the demo video](images/ss1.png)](DemoVideo.mp4)
+▶️ [Click here to watch the demo video](videos/DemoVideo.mp4)
+
 
 
 
