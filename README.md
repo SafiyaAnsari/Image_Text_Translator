@@ -16,7 +16,10 @@ Hey there! 👋 I built this tool because I was tired of manually typing out tex
 ![Overlay Screenshot](images/ss3.png)
 
 
-▶️ [Click here to watch the demo video](videos/DemoVideo.mp4)
+ ## 🎥 Demo Video
+
+[![Watch the demo video on YouTube](https://img.youtube.com/vi/o7QNl4jhoPs/0.jpg)](https://youtu.be/o7QNl4jhoPs)
+
 
 
 
