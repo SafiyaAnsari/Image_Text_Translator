@@ -33,11 +33,6 @@ Simple - you upload an image (or take a photo), and it:
 
 No more squinting at your phone trying to type foreign characters into Google Translate!
 
-## Why I built this
-
-I was backpacking through Seoul last year and kept running into signs I couldn't read. Sure, Google Translate has a camera feature, but it's clunky and doesn't work great offline. Plus, I wanted something that would actually overlay the translations properly so I could see exactly what each part meant.
-
-After way too many late nights coding (and probably too much coffee), here we are!
 
 ## Features that actually matter
 
